@@ -1,2 +1,1 @@
-# sinan-av.github.io
-Personal portfolio — B.Tech CSE student, Python &amp; full-stack developer
+My personal portfolio site — built with HTML/CSS, hosted on GitHub Pages
